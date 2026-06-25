@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="440" viewBox="0 0 660 440">
+  <rect width="100%" height="100%" fill="#111"/>
+  <polygon points="190,110 166.569,53.4315 110,30 53.4315,53.4315 30,110 53.4315,166.569 110,190 166.569,166.569 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="110" y="210" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=8  reg   smooth</text>
+  <polygon points="403.387,110 380.478,59.5224 330,39.0079 264.295,44.295 261.511,110 279.406,160.594 330,192.984 405.778,185.778 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="330" y="210" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=8  reg   noisy</text>
+  <polygon points="628.132,92.812 602.422,49.5689 537.176,31.0346 480.927,69.6402 470.772,98.9117 477.086,142.917 529.852,187.421 605.368,167.744 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="550" y="210" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=8  irreg smooth</text>
+  <polygon points="159.702,339.084 173.629,272.431 91.4162,276.346 52.9016,280.976 15.1452,337.868 76.8905,372.879 134.292,428 161.09,361.56 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="110" y="430" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=8  irreg noisy</text>
+  <polygon points="400.272,330 399.888,311.274 392.354,294 394.19,265.81 365.109,269.189 349.721,256.401 330,242.135 310.461,257.081 286.741,255.074 265.524,265.524 256.869,287.778 253.087,309.391 238.438,330 248.703,351.784 257.814,371.676 281.381,378.619 292.268,395.354 309.297,407.263 330,405.275 352.023,412.19 366.94,393.982 392.224,392.224 407.522,374.757 401.697,349.211 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="330" y="430" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=24 reg   mild</text>
+  <polygon points="641.505,344.492 641.343,320.369 601.576,303.199 614.861,282.18 590.251,249.93 573.303,258.247 558.065,251.635 533.147,278.906 510.932,273.026 479.936,260.467 489.745,287.458 448.443,303.002 447.829,329.469 476.677,346.511 489.25,375.348 490.945,385.043 512.998,378.724 506.743,431.266 547.511,394.465 559.014,382.699 588.089,426.258 620.553,393.64 603.351,356.384 646.784,347.352 " fill="#e8d8a0" fill-opacity="0.15" stroke="#e8d8a0" stroke-width="1" />
+  <text x="550" y="430" fill="#888" font-family="monospace" font-size="11" text-anchor="middle">N=24 wild</text>
+</svg>
